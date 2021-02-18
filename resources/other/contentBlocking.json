@@ -158,7 +158,7 @@
 	{
 		"category": "regional",
 		"title": "hufilter",
-		"updateUrl": "https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt",
+		"updateUrl": "https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt",
 		"languages":
 		[
 			"hu"
